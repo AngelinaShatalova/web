@@ -1,0 +1,37 @@
+body {
+  background-color:#f8f8f8
+}
+#navbar a {
+  background-color: #949494;
+  color: #fff;
+  padding: 5px;
+  text-decoration: none;
+  font-weight: bold;
+  border-left: 5px solid #33ADFF;
+  display: block;
+
+}
+}
+h2 {
+    background: #eaeaea; 
+    color: black ;
+    font-weight: 400;
+	font-size: 18px;
+		}
+ p1 {
+  color: #707070 ;
+  font-size: 14px;
+  font-style:italic;
+  line-height: 16px;
+}
+p3 {
+  color:#484343;
+  font-size: 16px;
+  font-weight:400;
+  line-height:24px;
+  text-align: left;
+}
+p2 {
+   color:996633;
+   font-weight: bold;
+}
